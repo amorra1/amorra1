@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (Course Assignments)</b>
   - [Practicing Operations on Linked Lists](https://github.com/amorra1/LinkedListPractice)
 - <b>Introduction to C (Course Assignments)</b>
-  - [Pac-man Project](https://github.com/)
+  - [Pac-man Project](https://github.com/amorra1/PacManProject)
   - [Chemical Kinetics (Recursive Functions)](https://github.com/)
   - [Riemann Sum Calculator (Function Applications)](https://github.com/)
   - [Gold Mining (File input / Output)](https://github.com/)
