@@ -7,7 +7,7 @@
 - <b>Introduction to C (Course Assignments)</b>
   - [Pac-man Project](https://github.com/amorra1/PacManProject)
   - [Chemical Kinetics (Recursive Functions)](https://github.com/amorra1/ChemicalKinetics)
-  - [Riemann Sum Calculator (Function Applications)](https://github.com/)
+  - [Riemann Sum Calculator (Function Applications)](https://github.com/amorra1/RiemannSum)
   - [Gold Mining (File input / Output)](https://github.com/)
   - [Acronym Maker (String Applications)](https://github.com/)
   - [Limestine Ground Water Flow (Array Applications)](https://github.com/)
