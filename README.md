@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (Course Assignments)</b>
-  - [Practicing Operations on Linked Lists]([https://github.com/](https://github.com/amorra1/LinkedListPractice))
+  - [Practicing Operations on Linked Lists](https://github.com/amorra1/LinkedListPractice)
 - <b>Introduction to C (Course Assignments)</b>
   - [Pac-man Project](https://github.com/)
   - [Chemical Kinetics (Recursive Functions)](https://github.com/)
