@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! Computer Engineering Student</a> & <br/><a href="https://github.com/amorra1">Programmer</a>
+<h1>Hi, I'm Alex! <br/><a href="www.linkedin.com/in/alex-morra">Computer Engineering Student</a> & <br/><a href="https://github.com/amorra1">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
