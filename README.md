@@ -4,6 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (Course Assignments)</b>
   - [Practicing Operations on Linked Lists](https://github.com/amorra1/LinkedListPractice)
+  - [Bracket Matching using Array and Linked List Based Stacks](https://github.com/amorra1/ArrayAndLinkedListsStacks)
 - <b>Introduction to C (Course Assignments)</b>
   - [Pac-man Project](https://github.com/amorra1/PacManProject)
   - [Chemical Kinetics (Recursive Functions)](https://github.com/amorra1/ChemicalKinetics)
