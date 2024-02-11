@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<b>Python:</b>
+- <b>Data Science Projects</b>
+  - [Web Scraping Weather Data](https://github.com/amorra1/WebScraping).
+
 <b>C/C++:</b>
 - <b>Data Structures and Algorithms Practice (Course Assignments)</b>
   - [Practicing Operations on Linked Lists](https://github.com/amorra1/LinkedListPractice)
@@ -16,10 +20,10 @@
 
 <b>Java:</b>
 - <b>Object Oriented Programming</b>
-  - [Java Classes Principles](https://github.com/amorra1/ValidDatesAndStocks)
-  - [Java Basics Lab](https://github.com/amorra1/DateApp)
+  - [Java Classes Principles](https://github.com/amorra1/ValidDatesAndStocks).
+  - [Java Basics Lab](https://github.com/amorra1/DateApp).
 
-<b>Python:</b>
+
 <!--
 
 <h2>📺 Popular YouTube Videos</h2>
