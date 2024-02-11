@@ -5,7 +5,6 @@
 <b>Python:</b>
 - <b>Quantitative Finance Projects</b>
   - [Machine Learning Bitcoin Trading Algorithm](https://github.com/amorra1/BitcoinMLAlgorithm)
-
 - <b>Data Science Projects</b>
   - [Web Scraping Weather Data](https://github.com/amorra1/WebScraping)
 
