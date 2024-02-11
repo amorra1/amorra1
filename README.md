@@ -14,7 +14,8 @@
   - [Acronym Maker (String Applications)](https://github.com/)
   - [Limestine Ground Water Flow (Array Applications)](https://github.com/)
 
-<b>Java, Object Oriented Programming:</b>
+<b>Java:</b>
+- <b>Object Oriented Programming</b>
 
 <b>Python:</b>
 <!--
