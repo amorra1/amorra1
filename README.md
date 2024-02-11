@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <b>Python:</b>
-- <b>Quantitative Finacne Projects</b>
+- <b>Quantitative Finance Projects</b>
   - [Machine Learning Bitcoin Trading Algorithm](https://github.com/amorra1/BitcoinMLAlgorithm)
 
 - <b>Data Science Projects</b>
