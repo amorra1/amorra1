@@ -10,6 +10,7 @@
 
 <b><h3>C/C++:</h3></b>
 - <b>Data Structures and Algorithms Practice (Course Assignments)</b>
+  - [Priority Queue and Heap Modifications](https://github.com/amorra1/lab6)
   - [Binary Search Tree Algorithms](https://github.com/amorra1/lab5)
   - [Practicing Operations on Linked Lists](https://github.com/amorra1/LinkedListPractice)
   - [Bracket Matching using Array and Linked List Based Stacks](https://github.com/amorra1/ArrayAndLinkedListsStacks)
