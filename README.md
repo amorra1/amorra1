@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<b>Python:</b>
+<b><h3>Python:</h3></b>
 - <b>Quantitative Finance Projects</b>
   - [Machine Learning Bitcoin Trading Algorithm](https://github.com/amorra1/BitcoinMLAlgorithm)
 - <b>Data Science Projects</b>
   - [Web Scraping Weather Data](https://github.com/amorra1/WebScraping)
 
-<b>C/C++:</b>
+<b><h3>C/C++:</h3></b>
 - <b>Data Structures and Algorithms Practice (Course Assignments)</b>
   - [Binary Search Tree Algorithms](https://github.com/amorra1/lab5)
   - [Practicing Operations on Linked Lists](https://github.com/amorra1/LinkedListPractice)
@@ -21,13 +21,13 @@
   - [Acronym Maker (String Applications)](https://github.com/)
   - [Limestine Ground Water Flow (Array Applications)](https://github.com/)
 
-<b>Java:</b>
+<b><h3>Java:</h3></b>
 - <b>Object Oriented Programming</b>
   - [Inheritance Practice](https://github.com/amorra1/InheritancePractice)
   - [Java Classes Principles](https://github.com/amorra1/ValidDatesAndStocks)
   - [Java Basics Lab](https://github.com/amorra1/DateApp)
  
-<b>Assembly:</b>
+<b><h3>Assembly:</h3></b>
 - <b>Nios II</b>
   - [Subroutines](https://github.com/amorra1/NiosIISubroutines)
 
