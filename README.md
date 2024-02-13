@@ -22,6 +22,7 @@
 
 <b>Java:</b>
 - <b>Object Oriented Programming</b>
+  - [Inheritance Practice](https://github.com/amorra1/InheritancePractice)
   - [Java Classes Principles](https://github.com/amorra1/ValidDatesAndStocks)
   - [Java Basics Lab](https://github.com/amorra1/DateApp)
 
