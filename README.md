@@ -10,6 +10,7 @@
 
 <b>C/C++:</b>
 - <b>Data Structures and Algorithms Practice (Course Assignments)</b>
+  - [Binary Search Tree Algorithms](https://github.com/amorra1/lab5)
   - [Practicing Operations on Linked Lists](https://github.com/amorra1/LinkedListPractice)
   - [Bracket Matching using Array and Linked List Based Stacks](https://github.com/amorra1/ArrayAndLinkedListsStacks)
 - <b>Introduction to C (Course Assignments)</b>
