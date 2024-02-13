@@ -25,6 +25,10 @@
   - [Inheritance Practice](https://github.com/amorra1/InheritancePractice)
   - [Java Classes Principles](https://github.com/amorra1/ValidDatesAndStocks)
   - [Java Basics Lab](https://github.com/amorra1/DateApp)
+ 
+<b>Assembly:</b>
+- <b>Nios II</b>
+  - [Subroutines](https://github.com/amorra1/NiosIISubroutines)
 
 
 <!--
