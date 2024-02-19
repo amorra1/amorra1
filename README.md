@@ -1,5 +1,7 @@
 <h1>Hi, I'm Alex! <br/><a href="https://www.linkedin.com/in/alex-morra">Computer Engineering Student</a> & <br/><a href="https://github.com/amorra1">Programmer</a>
-
+<h2>👨‍💼About me:</h2>
+<h3>I am currently a second year Computer Engineering student at Queen's University interested in all things tech, software, and finance.
+</h3>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <b><h3>Python:</h3></b>
