@@ -25,7 +25,7 @@
   - [Limestine Ground Water Flow (Array Applications)](https://github.com/)
 
 <b><h3>Java:</h3></b>
-- <b>Object Oriented Programming</b>
+- <b>Object Oriented Programming Course</b>
   - [GuessMaster Game](https://github.com/amorra1/GuessMaster)
   - [Inheritance Practice](https://github.com/amorra1/InheritancePractice)
   - [Java Classes Principles](https://github.com/amorra1/ValidDatesAndStocks)
