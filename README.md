@@ -9,6 +9,7 @@
   - [Machine Learning Bitcoin Trading Algorithm](https://github.com/amorra1/BitcoinMLAlgorithm)
 - <b>Data Science Projects</b>
   - [Web Scraping Weather Data](https://github.com/amorra1/WebScraping)
+  - [Data Visualization](https://github.com/amorra1/ELEC292_Lab4)
 
 <b><h3>C/C++:</h3></b>
 - <b>Data Structures and Algorithms Practice (Course Assignments)</b>
