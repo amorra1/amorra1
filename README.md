@@ -28,6 +28,7 @@
 <b><h3>Java:</h3></b>
 - <b>Object Oriented Programming Course</b>
   - [GuessMaster Game](https://github.com/amorra1/GuessMaster)
+  - [Interface Practice](https://github.com/amorra1/InterfaceLab4)
   - [Inheritance Practice](https://github.com/amorra1/InheritancePractice)
   - [Java Classes Principles](https://github.com/amorra1/ValidDatesAndStocks)
   - [Java Basics Lab](https://github.com/amorra1/DateApp)
