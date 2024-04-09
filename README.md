@@ -8,6 +8,7 @@
 - <b>Quantitative Finance Projects</b>
   - [Machine Learning Bitcoin Trading Algorithm](https://github.com/amorra1/BitcoinMLAlgorithm)
 - <b>Data Science Projects</b>
+  - [Jumping / Walking CLassifier and Desktop App](https://github.com/amorra1/FinalProject)
   - [Web Scraping Weather Data](https://github.com/amorra1/WebScraping)
   - [Data Visualization](https://github.com/amorra1/ELEC292_Lab4)
 
