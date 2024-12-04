@@ -1,7 +1,14 @@
-<h1>Hi, I'm Alex! <br/><a href="https://www.linkedin.com/in/alex-morra">Computer Engineering Student</a> & <br/><a href="https://github.com/amorra1">Programmer</a>
+<h1>Hi, I'm Alex! <br/>
+  <a href="https://www.linkedin.com/in/alex-morra">Computer Engineering Student</a> & <br/>
+  <a href="https://github.com/amorra1">Programmer</a>
+</h1>
 <h2>👨‍💼About me:</h2>
-<h3>I am currently a third year Computer Engineering student at Queen's University interested in all things tech, software, and finance.
-</h3>
+<h3>I am currently a third-year Computer Engineering student at Queen's University interested in all things tech, software, and finance.</h3>
+<ul>
+  <li>Check out all my projects on my <a href="https://github.com/amorra1?tab=repositories">repositories</a> tab!</li>
+</ul>
+  
+<!-- 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <b><h3>Python:</h3></b>
@@ -37,6 +44,8 @@
 <b><h3>Assembly:</h3></b>
 - <b>Nios II</b>
   - [Subroutines](https://github.com/amorra1/NiosIISubroutines)
+  -
+-->
 
 
 <!--
@@ -51,8 +60,6 @@
 -->
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AlexMorra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AlexMorra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AlexMorra | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[instagram]: https://www.instagram.com/alex_morra1/
 [linkedin]: https://linkedin.com/in/alex-morra
